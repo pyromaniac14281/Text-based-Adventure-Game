@@ -3,8 +3,8 @@
 This is a Java text-based adventure game using a <b>Command Parser</b> along with features, such as <b>Game Saving</b>, <b>Item Storage</b> and more.
 
 
-- June 2015, Thessaloniki, Greece
-- Nikiforos Archakis
+- June 2020, 
+- Vinesh Pendyala
 
 
  	
@@ -18,4 +18,4 @@ This is a Java text-based adventure game using a <b>Command Parser</b> along wit
 	
 
 
-# Text-based-Adventure-Game
+
